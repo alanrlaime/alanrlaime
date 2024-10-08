@@ -24,7 +24,7 @@ Descubri los emogis 😠 y este 😺que es lo importante
 > [!IMPORTANTE]
 > Para Cosas inportantes
 
-> [!ADVERTENCIAS]
+> [!WARNING]
 > Para advertencias y demas
 
 > [!PRECAUCION]
