@@ -15,7 +15,7 @@ Descubri los emogis 😠 y este 😺que es lo importante
 - [ ] No puedo marcarlos
 - [x] ya ya pude
 
-> [! TIPS ]
+> [ !TIPS ]
 > Para notas y demas miau miau
 
 > [!PARA TIPS Y DEMAS]
