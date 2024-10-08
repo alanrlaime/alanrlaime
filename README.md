@@ -1,6 +1,6 @@
 # UN TITULO
 
-![Esta es una imagen](https://img.freepik.com/fotos-premium/ciudad-futurista-noche-luces-neon-3d-rendering_844516-2285.jpg)
+![Esta es una imagen](gatos.png)
 
 Este es mi github, Lorem30
 no funciona \n
