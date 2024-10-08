@@ -15,20 +15,20 @@ Descubri los emogis 😠 y este 😺que es lo importante
 - [ ] No puedo marcarlos
 - [x] ya ya pude
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+> [!ESTA ES UNA NOTA]
+> Para notas y demas miau miau
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+> [!PARA TIPS Y DEMAS]
+> Para tips y demas
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> [!IMPORTANTE]
+> Para Cosas inportantes
 
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> [!ADVERTENCIAS]
+> Para advertencias y demas
 
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> [!PRECAUCION]
+> Para cosas mucho muy importantes
 
 - 👋 Hi, I’m @alanrlaime
 - 👀 I’m interested in ...
