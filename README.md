@@ -1,4 +1,4 @@
-# ALAN RODRIGO LAIME LAURA
+# ALAN R
 
 ![Esta es una imagen](gatos.png)
 
