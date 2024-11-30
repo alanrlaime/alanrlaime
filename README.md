@@ -1,4 +1,4 @@
-# ALAN R
+# PORTAFOLIO PERSONAL
 
 ![Esta es una imagen](gatos.png)
 
