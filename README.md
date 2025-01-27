@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://avatars.githubusercontent.com/u/133004241?v=4" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+ <h2 align="center">Alan R</h2>
 </p>
 
 ### Hi there 👋 I am [Apurv Shah](https://apurvshah007.github.io)
