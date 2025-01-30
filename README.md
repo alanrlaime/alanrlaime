@@ -1,110 +1,71 @@
 <p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/133004241?v=4" align="center" alt="Github Readme Stats" />
- <h2 align="center">Alan R</h2>
+    <img src="https://tanaytoshniwal.me/assets/images/nametag.png" width="350px" alt="tanay toshniwal" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tanaytoshniwal&show_icons=true&count_private=true&theme=dark"/>
 </p>
 
-### Hi there 👋 I am [Apurv Shah](https://apurvshah007.github.io)
+# About Me
+Hi folks :wave: 
 
-<a href="https://www.linkedin.com/in/apurv-shah/">
-  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/apurvshah123/">
-  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://medium.com/@apurvshah2604">
-  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
-</a>
-<br />
-<br />
+I'm Tanay Toshniwal, a Full Stack Developer in MEAN (MongoDB-Express.js-Angular-Node.js) and MERN(MongoDB-Express.js-React.js-Node.js) Stack, an App Developer and a part-time Musician.
 
-<div>
- <p>
+I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engineering from SRM Institute of Science and Technology, Chennai. I love to learn about how things work and try new tools and technologies. I love to share time with developer communities and events.
 
-I am 20 years old and I double major in Computer Science and Mathematics with a concentration in Actuarial Science at University of Massachusetts, Amherst. I am fascinated by Trading and Financial Markets. I aspire to become an accomplished Quantitative Analyst and manage my own fund one day. I am deeply interested in Algorithmic and systematic trading. I am also interested in software development and API Engineering to make pwerful developer tools for others. I aspire to wrk for some company and develop software that has a positive impace pn Society. 
+# Skills
+## Programming Languages:
 
-I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [DEV.to](https://dev.to/apurvshah007) page.
+<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/Java SE-important" alt="Java SE" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/TypeScript-yellow" alt="TypeScript" />
 
-I am a student developer [@stocksmith](https://github.com/stocksmith) where we actively manage the stocksmith package is which is an open-source power development tool for stock data analysis including msart machine-learning and NLP functions in the backend. I work on writing and maintaining the analytic and machine-learning functions. 
+<!-- * C/C++
+* Java SE
+* Python 3
+* JavaScript (ES6)
+* TypeScript -->
 
-Do visit my Medium page where I ocassioanlly publish about my experiences exploring the world of open-source development and how this year has been so unique. 
+## Frameworks:
 
-</h4>
-</div>
-
-<div><p>My profile overview: </p></div>
-
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
-<br />
-<br />
-<br />
 <details>
-<summary>
-  Projects I am currently working on
-</summary>
-
-<br />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
-
-<br />
-
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+    <summary>view list...</summary>
+    <ul>
+        <li>MEAN</li>
+        <li>MERN</li>
+        <li>Angular</li>
+        <li>React</li>
+        <li>React Native</li>
+        <li>Redux</li>
+        <li>Node.js</li>
+        <li>Ionic 3 & 4</li>
+        <li>Mongo DB</li>
+        <li>Android</li>
+    </ul>
 </details>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
+## Database:
 
+<details>
+    <summary>view list...</summary>
+    <ul>
+        <li>MongoDB</li>
+        <li>MySQL</li>
+    </ul>
+</details>
 
-Leave a ⭐️ if you like this template and want to modify it for yourself!
-----
-Credit: [ApurvShah007](https://github.com/ApurvShah007)
+# Want to know more?
 
-Last Edited on: 23/09/2020
+<!-- My Portfolio: [https://tanaytoshniwal.me](https://tanaytoshniwal.me) -->
 
-# PORTAFOLIO PERSONAL
+[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me-brightgreen" />](https://tanaytoshniwal.me) 
 
-![Esta es una imagen](gatos.png)
+[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Ftanaytoshniwal.com-red" />](https://tanaytoshniwal.com) 
 
-Este es mi github, Lorem30
-no funciona \n
-No se puede crear saltos de linea
+[<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://tanaytoshniwal.me/assets/tanay-toshniwal-resume.pdf)
 
-Si, si se puede :D
+[<img alt="email" src="https://img.shields.io/badge/Email%20me-tanaytoshniwal98%40gmail.me-orange" />](mailto:tanaytoshniwal98@gmail.me) 
 
-Descubri los emogis 😠 y este 😺que es lo importante
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/tanaytoshniwal?label=Follow%20Me&style=social" />
 
-## OTRO TITULO
-- [ ] Puedo crear ToDo List
-- [ ] No puedo marcarlos
-- [x] ya ya pude
+-----
+Credits: [tanaytoshniwal](https://github.com/tanaytoshniwal)
 
-> [ !TIPS ]
-> Para notas y demas miau miau
-
-> [!PARA TIPS Y DEMAS]
-> Para tips y demas
-
-> [!IMPORTANTE]
-> Para Cosas inportantes
-
-> [!WARNING]
-> Para advertencias y demas
-
-> [!PRECAUCION]
-> Para cosas mucho muy importantes
-
-- 👋 Hi, I’m @alanrlaime
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-alanrlaime/alanrlaime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Last Edited on: 30/08/2020
