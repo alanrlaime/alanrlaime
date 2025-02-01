@@ -8,7 +8,7 @@
 # About Me
 Hi folks :wave: 
 
-I'm Tanay Toshniwal, a Full Stack Developer in MEAN (MongoDB-Express.js-Angular-Node.js) and MERN(MongoDB-Express.js-React.js-Node.js) Stack, an App Developer and a part-time Musician.
+I'm AlanR, a Full Stack Developer in React and Next.js , an App Developer and a part-time Musician.
 
 I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engineering from SRM Institute of Science and Technology, Chennai. I love to learn about how things work and try new tools and technologies. I love to share time with developer communities and events.
 
