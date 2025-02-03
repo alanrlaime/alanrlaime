@@ -30,12 +30,9 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
     <ul>
         <li>MEAN</li>
         <li>MERN</li>
-        <li>Angular</li>
         <li>React</li>
-        <li>React Native</li>
         <li>Redux</li>
         <li>Node.js</li>
-        <li>Ionic 3 & 4</li>
         <li>Mongo DB</li>
         <li>Android</li>
     </ul>
