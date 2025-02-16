@@ -5,8 +5,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=tanaytoshniwal&show_icons=true&count_private=true&theme=dark"/>
 </p>
 
-# About Me
-Hi folks :wave: 
+# Sobre Mi
+Hola sigueme :wave: 
 
 I'm AlanR, a Full Stack Developer in React and Next.js , an App Developer and a part-time Musician.
 
