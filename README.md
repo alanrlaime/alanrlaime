@@ -47,6 +47,9 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
     <ul>
         <li>MongoDB</li>
         <li>MySQL</li>
+        <li>MySQL</li>
+        <li>MySQL</li>
+        <li>MySQL</li>
     </ul>
 </details>
 
