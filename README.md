@@ -31,10 +31,6 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
     <summary>view list...</summary>
     <ul>
         <li>MEAN</li>
-        <li>MERN</li>
-        <li>React</li>
-        <li>Redux</li>
-        <li>Node.js</li>
         <li>Mongo DB</li>
         <li>Android</li>
     </ul>
